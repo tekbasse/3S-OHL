@@ -1,0 +1,6 @@
+# Design contacts:
+# These people have expressed interest in a copy of revisions.
+
+Name email
+<Benjamin Brink> tekbasse@yahoo.com
+
