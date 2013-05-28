@@ -1,0 +1,39 @@
+S3-OHL FAQ.txt
+==============
+
+Frequently Asked Questions
+
+Q: Why is content in unreadable file formats and unrecognized file extensions?
+
+A: Content is published in a variety of standard formats:
+
+  file suffix     format type
+  .gif            Graphical Interchange Format File
+  .html           Web page readable by internet browsers
+  .JPG            A graphics image format readable by internet browsers
+  .md             Markdown file format ie. a text format 
+                    that renders well in html converters
+  .odt            OpenDocument text format. Can't read? Try LibreOffice 
+  .odg            OpenDocument graphics format. Can't read? Try LibreOffice
+  .TXT            Text file
+
+  More on OpenDocument formats at http://en.wikipedia.org/wiki/OpenDocument
+
+
+Q: Why is IMG_2967.JPG so blurry and uncompressed?
+
+A: This is a copy of the original, unedited file from the digital camera
+   that took the photograph. It's blurry because the three second exposure
+   with wide aperature shortened the depth of field.
+
+
+Q: This isn't a complete product. Why did you publish it now?
+
+A: The design has reached a level where it has the potential for 
+   open hardware practitioners and DIYers to make impressive
+   innovations with it.  It is released under an open hardware
+   license in part to prevent patent restrictions from potentially
+   foiling rapid advance of a new generation of technology.
+
+
+
