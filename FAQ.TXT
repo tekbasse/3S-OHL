@@ -36,4 +36,19 @@ A: The design has reached a level where it has the potential for
    foiling rapid advance of a new generation of technology.
 
 
-
+Q: Why call this a synchrotron?
+   This isn't a synchrotron that's used in high-energy physics,
+   where a synchrotron is larger than most buildings and 
+   uses lots of electricity to accelerate electrons
+   in a vacuum and guided by magnetic fields.
+   
+A: At the moment, "solid-state synchrotron" seems to be the best fit,
+   but you're welcome to call it something else; and I will gladly
+   consider alternate names. The device is driven by and accelerates
+   electrons in fixed, spiraling paths. All other names I came up 
+   with turned out to represent other things much less related. Since
+   there are different types of synchrotrons, and no solid-state
+   synchrotron is defined, this seems to work for now. A general
+   definition of manufactured synchrotron devices can be found at
+   http://en.wikipedia.org/wiki/Synchrotron_light_source
+   Natural sources of synchrotron radiation exist also.
