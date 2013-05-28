@@ -51,4 +51,5 @@ A: At the moment, "solid-state synchrotron" seems to be the best fit,
    synchrotron is defined, this seems to work for now. A general
    definition of manufactured synchrotron devices can be found at
    http://en.wikipedia.org/wiki/Synchrotron_light_source
-   Natural sources of synchrotron radiation exist also.
+   Natural sources of synchrotron radiation exist also. For a list,
+   see: http://en.wikipedia.org/wiki/List_of_light_sources
