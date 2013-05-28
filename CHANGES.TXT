@@ -4,5 +4,7 @@
 # Version 1.0 released 20 May 2013 
 # No changes.
 
+# Added FAQs via FAQ.TXT on 28 May 2013 
+
 
 Report a summary of changes here. 
