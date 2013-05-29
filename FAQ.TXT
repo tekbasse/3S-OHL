@@ -1,5 +1,5 @@
-S3-OHL FAQ.txt
-==============
+Solid-State Synchrotron FAQ.TXT
+===============================
 
 Frequently Asked Questions
 
