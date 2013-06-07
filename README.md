@@ -15,7 +15,7 @@ You should have received a copy of the GNU General Public License along with thi
 Abstract
 ========
 
-This hardware design is a solid-state synchrotron that multiplies an input voltage with each resonating cycle, and is capable of emitting electromagnetic waves at specific sets of frequencies and may emit plasma from a cascade of alternating EM flux. Speculatively, this device has the potential to meet multiple, fundamental target technology design challenges.
+This hardware design is a solid-state synchrotron that multiplies voltage from electromagnetic input with each resonating induction cycle, and is capable of emitting electromagnetic waves at specific sets of frequencies and may emit plasma from a cascade of alternating EM flux. Speculatively, this device has the potential to meet multiple, fundamental target technology design challenges.
 
 See file: README.odt for details.
 

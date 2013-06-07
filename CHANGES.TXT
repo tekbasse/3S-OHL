@@ -6,5 +6,7 @@
 
 # Added FAQs via FAQ.TXT on 28 May 2013 
 
+# On 8 June 2013 Changed some descriptive wording after analysis of unspecific feedback 
+
 
 Report a summary of changes here. 
