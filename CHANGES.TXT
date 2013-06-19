@@ -8,5 +8,7 @@
 
 # On 8 June 2013 Changed some descriptive wording after analysis of unspecific feedback 
 
+# On 19 June 2013 Added round-wire resource tables that help identify practical configurations
+#                 Added prototype version 2 draft calculations and notes sheet
 
 Report a summary of changes here. 
