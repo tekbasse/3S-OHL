@@ -11,4 +11,7 @@
 # On 19 June 2013 Added round-wire resource tables that help identify practical configurations
 #                 Added prototype version 2 draft calculations and notes sheet
 
+# On 28 June 2013 Added comment about thin-film inteference reflection in PRIOR-ART-PROOF-OF-CONCEPT.odt
+                  Revised README.odt to use more common electrical language.
+
 Report a summary of changes here. 

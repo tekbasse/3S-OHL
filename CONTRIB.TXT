@@ -2,5 +2,6 @@
 # These people have expressed interest in a copy of revisions.
 
 Name email
-<Benjamin Brink> tekbasse@yahoo.com
+Benjamin Brink <tekbasse@yahoo.com>
+
 
