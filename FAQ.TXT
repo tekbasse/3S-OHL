@@ -53,3 +53,14 @@ A: At the moment, "solid-state synchrotron" seems to be the best fit,
    http://en.wikipedia.org/wiki/Synchrotron_light_source
    Natural sources of synchrotron radiation exist also. For a list,
    see: http://en.wikipedia.org/wiki/List_of_light_sources
+
+Q: How can this work? It defies tested principles of electricity and physics.
+
+A: No performance is expected from trigger(s) in common domains of 
+   electrical operation. This is true of many electrical parts
+   viewed outside of their operating parameters. Plugging an antenna into
+   a residential AC power socket won't work as intended either. (I know,
+   I tried that when I was 4 years old ;-).  The “skin effect” viewed 
+   as a vortex of discrete charges provides a bridge between conventional 
+   interpretation and operation. This apparatus operates in the domain of
+   high frequencies and direct, inductive, and capacitive coupling.
