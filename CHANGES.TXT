@@ -14,4 +14,6 @@
 # On 28 June 2013 Added comment about thin-film inteference reflection in PRIOR-ART-PROOF-OF-CONCEPT.odt
                   Revised README.odt to use more common electrical language.
 
+Revised language of operational function to more conventional use of terms on 3 Nov. 2015.
+
 Report a summary of changes here. 
